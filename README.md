@@ -2,7 +2,7 @@
 
 **Telecom & mobile security · on-device privacy · OpenWrt / embedded**
 
-Security research at **[ZERO Cybernetic Systems & Digital Solutions UG](https://zerotrust.is)** (Berlin) · ✉️ security@zerotrust.is
+Security research at **ZERO Cybernetic Systems & Digital Solutions UG** (Berlin) · security@zerotrust.is
 
 I look at how mobile modems and consumer routers handle identity, and contribute changes that shrink
 a device's forensic and radio-layer footprint.
