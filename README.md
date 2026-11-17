@@ -20,4 +20,6 @@ I look at how LTE modems and mobile routers handle device identity, measure what
 
 Shielded LTE test bench (srsRAN / Open5GS, bladeRF, sysmoISIM) and a portable Kismet sensor case.
 
-Contact: security@zerotrust.is
+Contact: dialecticdaemon@proton.me
+
+PGP: `BE0F FDC1 F4EE 2604 9875  8270 5148 9C36 DC7A 7893`
